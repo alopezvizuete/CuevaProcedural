@@ -1,0 +1,28 @@
+﻿Compilación iniciada a las 27/06/2017 20:04:29.
+     1>Proyecto "C:\Users\Paula Lopez\Desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\P3GLSL.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\libs\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt scr\main.cpp
+         main.cpp
+     1>c:\users\paula lopez\desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\scr\main.cpp(321): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\paula lopez\desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\scr\main.cpp(330): warning C4244: '=' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\paula lopez\desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\scr\main.cpp(341): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\paula lopez\desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\scr\main.cpp(350): warning C4244: '=' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\paula lopez\desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\scr\main.cpp(381): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\users\paula lopez\desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\scr\main.cpp(382): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\users\paula lopez\desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\scr\main.cpp(383): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\users\paula lopez\desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\scr\main.cpp(428): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\paula lopez\desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\scr\main.cpp(440): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\paula lopez\desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\scr\main.cpp(446): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\paula lopez\desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\scr\main.cpp(452): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\paula lopez\desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\scr\main.cpp(561): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\paula lopez\desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\scr\main.cpp(1137): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>c:\users\paula lopez\desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\scr\main.cpp(1140): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Paula Lopez\Desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\Debug\P5GLSL.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\libs\lib FreeImage.lib opengl32.lib freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Paula Lopez\Desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\Debug\P5GLSL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Paula Lopez\Desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\Debug\P5GLSL.lib" /MACHINE:X86 /SAFESEH Debug\auxiliar.obj
+         Debug\main.obj
+         P3GLSL.vcxproj -> C:\Users\Paula Lopez\Desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\Debug\P5GLSL.exe
+     1>Compilación del proyecto terminada "C:\Users\Paula Lopez\Desktop\p5-alejandro - copia\p5-alejandro - copia\p3glsl\P3GLSL.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.23

@@ -1,0 +1,33 @@
+﻿Compilación iniciada a las 28/06/2017 13:55:21.
+     1>Proyecto "C:\Users\Paula Lopez\Desktop\P2Cueva\P2Cueva\p3glsl\P3GLSL.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\libs\include\ /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt scr\auxiliar.cpp scr\main.cpp
+         auxiliar.cpp
+         main.cpp
+     1>scr\main.cpp(328): warning C4018: '<' : no coinciden signed/unsigned
+     1>scr\main.cpp(337): warning C4244: '=' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>scr\main.cpp(350): warning C4018: '<' : no coinciden signed/unsigned
+     1>scr\main.cpp(359): warning C4244: '=' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>scr\main.cpp(392): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>scr\main.cpp(393): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>scr\main.cpp(394): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>scr\main.cpp(458): warning C4018: '<' : no coinciden signed/unsigned
+     1>scr\main.cpp(470): warning C4018: '<' : no coinciden signed/unsigned
+     1>scr\main.cpp(476): warning C4018: '<' : no coinciden signed/unsigned
+     1>scr\main.cpp(482): warning C4018: '<' : no coinciden signed/unsigned
+     1>scr\main.cpp(610): warning C4018: '<' : no coinciden signed/unsigned
+     1>scr\main.cpp(1254): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>scr\main.cpp(1257): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+     1>scr\main.cpp(1506): warning C4305: '+=' : truncamiento de 'double' a 'float'
+     1>scr\main.cpp(1513): warning C4305: '-=' : truncamiento de 'double' a 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Paula Lopez\Desktop\P2Cueva\P2Cueva\p3glsl\Release\P5GLSL.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\libs\lib FreeImage.lib freeglut.lib glew32.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Paula Lopez\Desktop\P2Cueva\P2Cueva\p3glsl\Release\P5GLSL.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Paula Lopez\Desktop\P2Cueva\P2Cueva\p3glsl\Release\P5GLSL.lib" /MACHINE:X86 /SAFESEH Release\auxiliar.obj
+         Release\main.obj
+         Generando código
+         Generación de código finalizada
+         P3GLSL.vcxproj -> C:\Users\Paula Lopez\Desktop\P2Cueva\P2Cueva\p3glsl\Release\P5GLSL.exe
+     1>Compilación del proyecto terminada "C:\Users\Paula Lopez\Desktop\P2Cueva\P2Cueva\p3glsl\P3GLSL.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.43
